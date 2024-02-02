@@ -44,15 +44,3 @@ The processed data is transmitted via the MCP2515 CAN controller to a Texas Inst
 
 3. The F28069M Launchpad receives the CAN messages, interprets the data, and controls the BLDC motors accordingly.
 
-## Additional Notes
-
-- Include any additional information, considerations, or troubleshooting steps here.
-- Provide references to relevant datasheets and documentation for the components used.
-
-## Acknowledgments
-
-Mention any external libraries, codes, or resources used in the project.
-
-## License
-
-Specify the license under which the project is distributed.
