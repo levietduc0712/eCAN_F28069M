@@ -29,6 +29,10 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
  * EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * --/COPYRIGHT--*/
+
+/* Copyright (c) 2024, LE VIET DUC
+ * All rights reserved.*/
+
 //! \file   solutions/instaspin_foc/boards/boostxldrv8301_revB/f28x/f2806xF/src/hal_2motors.c
 //! \brief Contains the various functions related to the HAL object (everything outside the CTRL system) 
 //!
