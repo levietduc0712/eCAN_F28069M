@@ -29,6 +29,10 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
  * EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * --/COPYRIGHT--*/
+
+/* Copyright (c) 2024, LE VIET DUC
+ * All rights reserved.*/
+
 //! \file   solutions/instaspin_foc/src/proj_lab10d.c
 //! \brief Dual motor project
 //!
