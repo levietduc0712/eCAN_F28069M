@@ -32,6 +32,9 @@
  * EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * --/COPYRIGHT--*/
 
+/* Copyright (c) 2024, LE VIET DUC
+ * All rights reserved.*/
+
 //! \file   solutions/instaspin_foc/src/hal_obj_2motors.h
 //! \brief Defines the structures for the HAL object 
 //!
