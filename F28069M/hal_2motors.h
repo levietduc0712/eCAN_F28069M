@@ -32,6 +32,9 @@
  * EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * --/COPYRIGHT--*/
 
+/* Copyright (c) 2024, LE VIET DUC
+ * All rights reserved.*/
+
 //! \file   solutions/instaspin_foc/boards/boostxldrv8301_revB/f28x/f2806x/src/hal_2motors.h
 //! \brief  Contains public interface to various functions related
 //!         to the HAL object
